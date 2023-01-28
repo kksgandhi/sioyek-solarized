@@ -8,5 +8,4 @@ To install:
 
 TODO:
 
- - add custom status bar colors
  - add custom highlight colors
